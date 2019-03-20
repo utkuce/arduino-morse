@@ -1,5 +1,5 @@
 # arduino-morse
 
-SOS Demo
+SOS Demo (... --- ...)
 
 ![](sos.gif)
